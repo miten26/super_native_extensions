@@ -12,7 +12,9 @@ dependencies:
     sdk: flutter
   collection: ^1.16.0
   super_native_extensions: 
-    path: ../super_native_extensions
+    url: https://github.com/miten26/super_native_extensions
+    path: super_native_extensions
+    
   super_clipboard: ^0.8.11
 dev_dependencies:
   flutter_test:
